@@ -1,2 +1,2 @@
 # machine_learning_analysis
-analysis and modelling of different datasets
+In this series of analysis i will analyze different datasets for different goals. Most of these datasets are taken from Kaggle. The analysis varies from EDA to linear regression to NN and CNN. i will also deploy some of these if possible. To use this repository, simply clone or download the related notebook and dataset.
